@@ -1,0 +1,60 @@
+clientImage = ''
+clientImageName = 'mmodal/closed-loop-website'
+def version = '1.0.3'
+
+pipeline {
+    // Discard old builds strategy
+    options {
+        buildDiscarder(logRotator(numToKeepStr: '25', artifactNumToKeepStr: '25', daysToKeepStr: '14'))
+    }
+
+    // Agent defines the slave tags where the build can be run
+    agent {
+        label 'docker'
+    }
+
+    stages {
+        stage('Setup') {
+            // We would like to set this timeout only on no activity, but that
+            // doesn't appear to be supported.
+            steps{
+                timeout(time:300, unit:'SECONDS') {
+                    deleteDir()
+                    checkout scm
+                }
+            }
+        }
+        stage('Build Client') {
+          steps {
+            timeout(time:300, unit:'SECONDS') {
+              script {
+                clientImage = docker.build(clientImageName, '.')  
+              }
+            }
+          }
+        }
+        
+        stage('Publish Client') {
+          steps {
+            timeout(time:300, unit:'SECONDS') {
+              script {                
+                docker.withRegistry('https://artifactory-pit.mmodal-npd.com', 'builder') {
+                  clientImage.push(version)
+                }
+              }
+            }
+          }
+        }
+    }
+
+    post {
+      changed {
+          emailext (
+              to: 'magabrin@mmm.com',
+              subject: "${env.JOB_NAME} #${env.BUILD_NUMBER} [${currentBuild.result == null ? 'SUCCESS' : currentBuild.result}]",
+              body: "Build URL: ${env.BUILD_URL}.\n\n",
+              attachLog: true,
+          )
+      }
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "closedLoop2019":[{
+        "name": "Breakfast",
+        "time": "9:00-9:20",
+        "room": "Main Auditorium",
+        "talkType": "",
+        "abstract": "Enjoy a good breakfast!"
+    },
+    {
+        "name": "Welcome - Judd/Tope",
+        "time": "9:20-9:30",
+        "room": "Main Auditorium",
+        "talkType": "",
+        "abstract": ""
+    },
+    {
+        "name": "Distracted Doctoring and Physician Burnout: A Tale of Electronic Health Records (Keynote) - Abdesalam Soudi, Ph.D.",
+        "time": "9:30-10:20",
+        "room": "Main Auditorium",
+        "abstract": "The aim of this talk is to examine the dynamics and challenges of medical interviewing using a computer in a primary care context, and highlight the dynamic roles of the computer in the development of the interview. Broadly speaking, I will review how a physician in active interaction with the computer or the patient turns their head away from one while sustaining involvement with the other. I will use comparisons to driving and using a cell phone, as well as other related examples to shed additional light on the challenges of medical interviewing using a computer, and underscore the doctor’s inability to type and engage the patient in conversation.",
+        "talkType": "NonTech"
+    },
+    {
+        "name": "Why I Love Test Driven Development - Kathryn Van Stone",
+        "time": "10:30-11:10",
+        "room": "Downstairs Room",
+        "talkType": "Tech",
+        "abstract": "What is Test Driven Development? This talk gives examples on how and why to look into Test Driven Development, where tests are written before the code (plus some other best practices). We will discuss benefits and pitfalls to the approach and how to ease into it for ongoing projects."    
+    },
+    {
+        "name": "The Surprisingly Complex Language of Prescribing Medications - Adam Rothschild",
+        "time": "10:30-11:10",
+        "room": "Main Auditorium",
+        "talkType": "NonTech",
+        "abstract": "On its surface, the language of prescribing seems simple: The prescriber specifies a medication, instructions to the patient about how to take the medication, and instructions to the pharmacist about how to fill the prescription. While a human pharmacist can usually resolve the complexities and ambiguities in the language of prescribing medications, this can be challenging for software. In this presentation I will discuss several issues that we encountered while developing the natural language understanding technology for prescribing medications within Fluency Assistant and how we overcame them."
+    },
+    {
+        "name": "Evolution of CDE - Anastasia Tircuit",
+        "time": "10:30-11:10",
+        "room": "Upstairs Room",
+        "talkType": "Tech",
+        "abstract": "Did you know that Clinical Data Exchange began as a button labeled 'Export'? CDE has evolved into a full fledged data source for our customers and internal products. This talk is a CDE primer, history lesson, and preview of the future."    
+    },
+    {
+        "name": "The Linux Subsytem for Windows - Ray Shimko",
+        "time": "11:20-12:00",
+        "room": "Main Auditorium",
+        "talkType": "Tech",
+        "abstract": "This will be a guide walking the audience through setting up the Windows Subsystem for Linux in a Windows 10 environment. We will show the audience how to install and configure tools like ansible and mercurial (hg) for source control and server fleet administration. If time allows we will also demo how to use MobaXterm to access WSL so you can have one tool to ssh to servers and utilize the above tools."    
+    },
+    {
+        "name": "Abusability Studies - Theora Kvitka",
+        "time": "11:20-12:00",
+        "room": "Downstairs Room",
+        "talkType": "NonTech",
+        "abstract": "In the future, the sun is always shining, technology is ubiquitous and invisible, and you never get locked out of Confluence. Right? Unfortunately, such visions of the future are unrealistic. Technology that was intended to bring us all together or make our lives easier has also been used to sow division, steal information and even facilitate hatred and violence. If you make the argument that the products that our society has built are working exactly as designed, then we need to be better at designing them! One of the tools in the UX Research arsenal is the usability study, to see if products or features work as intended. What if we tested how our designs might work as not intended? In this workshop, you will consider how 3M M*Modal’s products could be used for purposes other than their original intent – a.k.a. an “abusability study”. Join us to play devil’s advocate in order to build stronger products for a more resilient future."    
+    },
+    {
+        "name": "Realtime Data Analysis in the Browser with Javascript - Olga Carpenter",
+        "time": "11:20-12:00",
+        "room": "Upstairs Room",
+        "talkType": "Tech",
+        "abstract": "Fluency for Coding (FFC) is a medical coding platform that supports not only coding functions, but also personnel and operations management. As such, our clients rely heavily on reporting and analyses for decision-making, optimizing processes and increasing efficiency. In order to increase our flexibility in development, reduce cost, and increase user experience, our development team has opted to create our reporting interface using open-source web technologies such as ReactJS and ChartJS. This greatly increases our flexibility in what we can develop for our users as well as increase our efficiency in responding to our clients’ reporting/analytics requests. The objective of this talk will be to describe the technologies and and development process used, as well as demonstrate the benefits of these and how other teams can implement it in their projects."    
+    },
+    {
+        "name": "Lunch",
+        "time": "12:00-12:40",
+        "room": "Main Auditorium",
+        "talkType": "",
+        "abstract": ""
+    },
+    {
+        "name": "Recruiting & Interviewing: Advice from an Experienced Panel - Lisa Bush, Lilantha Alawattegama, Kevin Kibler, John McNulty, Eric Carraux, Erin Hirtle",
+        "time": "12:40-1:20",
+        "room": "Main Auditorium",
+        "talkType": "NonTech",
+        "abstract": "A panel discussion from various M*Modal team leads on best practices regarding around recruiting candidates and the interview process. Planning on addressing topics like common recruiting methods, categorizing the skillset required for the position, what metrics to use to evaluate a candidate as accurately as possible, among others. Will also address the hiring logistic changes panelists have faced with the 3M merger."    
+    },
+    {
+        "name": "LOUDquietLOUD - Melody Hauber",
+        "time": "12:40-1:20",
+        "room": "Downstairs Room",
+        "talkType": "NonTech",
+        "abstract": "During this interactive presentation, we'll take a look at the effects of noise in the environment, with a few anecdotes from the world of language specialists. Finally, we'll meet voice recognition’s “fun cousin,” song recognition, for an entertaining guessing game.\nIf you’re a fan of music and are prone to stuck song syndrome, this is the talk for you. Put on your pop-culture thinking caps and win prizes!"    
+    },
+    {
+        "name": "Pickle Quality: An Introduction to Behavior-Driven Development - Yosef Brown",
+        "time": "12:40-1:20",
+        "room": "Upstairs Room",
+        "talkType": "Tech",
+        "abstract": "Both physical and software products require testing to ensure quality. There are different approaches to testing software, but one way to verify functionality (automatically!) is through Behavior-Driven Development (BDD). Please join me as we explore the Gherkin behavior language to specify application performance and run automatic regression tests."    
+    },
+    {
+        "name": "'You Actually Read that?' How Data is Collected for Machine Learning - Jennifer Lines",
+        "time": "1:30-2:10",
+        "room": "Main Auditorium",
+        "talkType": "NonTech",
+        "abstract": "A key component of machine learning is data collection and data generation-- but as deceptively simple as this step sounds, there are many components of it that are tricky, surprising, and even fun. Most crucially, this initial work is all done by humans. In this talk, I will explain some of the key methods and guidelines for data collection, as well as common pitfalls and amusing mistakes one could make. I will also explain why it is so important to consider the human aspect of this step."    
+    },
+    {
+        "name": "Computational Linguistics for People Who Specifically Want to Avoid Computational Linguistics - Marty Taylor",
+        "time": "2:20-3:00",
+        "room": "Main Auditorium",
+        "talkType": "Tech",
+        "abstract": "We all know how to use language, right? We use it so much, we do it without thinking. Why is it so complicated to make computers do it? It can be intimidating, but as someone who studied linguistics and computer science, and who purposely stayed clear of computational linguistics, I'm here to show you that it's not that bad. If phrases like 'distributional semantics', 'language-games', or 'transformational grammar' confuse and bewilder you, don't worry, they scared me at one point too."    
+    },
+    {
+        "name": "Snack Break",
+        "time": "3:00-3:20",
+        "room": "Main Auditorium",
+        "talkType": "",
+        "abstract": ""
+    },
+        
+    {
+        "name": "How Fluency for Imaging Impacts the Radiology World: From Patient to Radiologist and Back - Lynn Nero and Lori Miller",
+        "time": "3:20-4:00",
+        "room": "Main Auditorium",
+        "talkType": "NonTech",
+        "abstract": "When you’re told by a general physician or a specialist that you need to have an exam, whether it be an x-ray, MRI, sonogram, etc., do you know what goes on behind the scenes?  Do you know what role Fluency for Imaging (FFI) and Scout play in the world of radiology?  In this presentation, we’ll walk through the steps taken to get an exam to FFI and outline what we provide to a radiologist so he can create a well-documented report.  From there, Scout Follow-up “closes the loop” by providing a nurse navigator a tool to track and manage recommended follow-ups.  Scout Analytics (Qlik) provides the facilities’ analyst insight to operational and quality data.  This is our role in improving patient care and generating what would otherwise be lost revenue for a facility."    
+    },
+    {
+        "name": "Circling the Wagons: Customer-Centric Management - Lynn Kosegi",
+        "time": "4:10-4:50",
+        "room": "Main Auditorium",
+        "talkType": "NonTech",
+        "abstract": "As we deliver more products to our customers, and particularly as we share customers with 3M, it becomes more important to have a data-driven, customer-centric focus as opposed to an individual product focus if we are to have an impact on the healthcare industry and on doctor's lives."    
+    },
+    {
+        "name": "Closing - Judd/Tope",
+        "time": "4:50-5:00",
+        "room": "Main Auditorium",
+        "talkType": "",
+        "abstract": ""
+    },
+    {
+        "name": "After-party (MME downstairs) / Game night (5:30-7:00) (MME cafe)",
+        "time": "5:00-7:00",
+        "room": "Main Auditorium",
+        "talkType": "",
+        "abstract": ""
+    }
+    ]
+}

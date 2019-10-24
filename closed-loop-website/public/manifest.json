@@ -1,0 +1,25 @@
+{
+  "short_name": "Closed Loop Website",
+  "name": "Closed Loop Website",
+  "icons": [
+    {
+      "src": "closedloop-favicon.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "closedloop-favicon-128x128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "closedloop-favicon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

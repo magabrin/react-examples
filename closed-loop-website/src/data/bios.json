@@ -1,0 +1,143 @@
+{
+    "closedLoop2019":[{
+        "name": "Adam Rothschild",
+        "bio": "Dr. Adam Rothschild is a board-certified family physician at Handelsman Family Practice and a clinical informaticist at M*Modal, where he applies his clinical and clinical informatics expertise to help develop M*Modal's virtual provider assistant. He graduated from Tufts University with a B.S. in biology and received his M.D. from the University of Illinois College of Medicine. Dr. Rothschild trained in medical informatics at Johns Hopkins University and Columbia University, where his research focused on developing electronic medical record system functionality using the problem-driven paradigm.",
+        "photoUrl": "ClosedLoop2019_Headshots_AdamRothschild.png",
+        "talkName": "The Surprisingly Complex Language of Prescribing Medications",
+        "abstract": "On its surface, the language of prescribing seems simple: The prescriber specifies a medication, instructions to the patient about how to take the medication, and instructions to the pharmacist about how to fill the prescription. While a human pharmacist can usually resolve the complexities and ambiguities in the language of prescribing medications, this can be challenging for software. In this presentation I will discuss several issues that we encountered while developing the natural language understanding technology for prescribing medications within Fluency Assistant and how we overcame them."
+    },
+    {
+        "name": "Anastasia Tircuit",
+        "bio": "Anastasia Tircuit has been an MModaler since 2013. She's done Software Engineering on Catalyst, NLU, and is the ringmaster of the circus that is CDE. In her previous life, she was an Associate Professor at Seton Hill University. Anastasia loves board games and can probably be found in the game night after ClosedLoop!",
+        "photoUrl": "ClosedLoop2019_Headshots_AnastasiaTircuit.png",
+        "talkName": "Evolution of CDE",
+        "abstract": "Did you know that Clinical Data Exchange began as a button labeled 'Export'? CDE has evolved into a full fledged data source for our customers and internal products. This talk is a CDE primer, history lesson, and preview of the future."    
+    },
+    {
+        "name": "Eric Carraux",
+        "bio": "Eric is a veteran at M*Modal, joining M*Modal in 2000. Back then, he was employee number 7, and has the shirt to prove it! Since joining, Eric has made an impact at M*Modal – he created the UX team, has had role on several projects including AMCC and Fluency Direct, and started Catalyst where he is currently the team lead. He has been involved in countless candidate interviews, and he currently oversees any Catalyst applicant. Eric graduated from the Joseph Fourier University with a Bachelors in Computer Science and a Masters in Software Engineering. He also has a Masters in Cognitive Science from the Institut National Polytechnique de Grenoble.",
+        "photoUrl": "ClosedLoop2019_Headshots_EricCarraux.png",
+        "talkName": "Recruiting & Interviewing: Advice from an experienced panel",
+        "abstract": "A panel discussion from various M*Modal team leads on best practices regarding around recruiting candidates and the interview process. Planning on addressing topics like common recruiting methods, categorizing the skillset required for the position, what metrics to use to evaluate a candidate as accurately as possible, among others. Will also address the hiring logistic changes panelists have faced with the 3M merger."    
+    },
+    {
+        "name": "Erin Hirtle",
+        "bio": "Erin Hirtle has been working at 3M for the past 7 years. She is part of the US Talent Acquisition team and assigned to support the Health Information Systems Division. Erin has also lead the Diversity and Inclusion team for HIS for the past 4 years. Inclusion focused hiring is a top priority in her work. Before 3M she spent 8 years recruiting and placing medical professionals for a nation wide staffing firm Supplemental Health Care. Living in the mountains of Park City, UT gives Erin the opportunity to enjoy her favorite actives skiing, riding her mountain bike and road bike.",
+        "photoUrl": "ClosedLoop2019_Headshots_ErinHirtle.png",
+        "talkName": "Recruiting & Interviewing: Advice from an experienced panel",
+        "abstract": "A panel discussion from various M*Modal team leads on best practices regarding around recruiting candidates and the interview process. Planning on addressing topics like common recruiting methods, categorizing the skillset required for the position, what metrics to use to evaluate a candidate as accurately as possible, among others. Will also address the hiring logistic changes panelists have faced with the 3M merger."    
+    },
+    {
+        "name": "John McNulty",
+        "bio": "John McNulty came to M*Modal in 2014, working first in Core Speech Operations and then moving across the street to focus his database magic on Reporting and Analytics, primarily for CDI Collaborate.  In his spare time, John is a musician, songwriter, and audio gadget inventor.  He can be found on most weekends singing and playing ukulele with his band, The Adorabulls, and occasionally people even trust him enough to officiate the odd wedding.",
+        "photoUrl": "ClosedLoop2019_Headshots_JohnMcNulty.png",
+        "talkName": "Recruiting & Interviewing: Advice from an experienced panel",
+        "abstract": "A panel discussion from various M*Modal team leads on best practices regarding around recruiting candidates and the interview process. Planning on addressing topics like common recruiting methods, categorizing the skillset required for the position, what metrics to use to evaluate a candidate as accurately as possible, among others. Will also address the hiring logistic changes panelists have faced with the 3M merger."    
+    },
+    {
+        "name": "Jennifer Lines",
+        "bio": "A graduate of the University of Pittsburgh, Jennifer joined M*Modal in 2018 after having worked here as an intern previously. Trained as a linguist, their work focuses primarily on semantic annotations, with the occasional adventure into syntax or phonology.",
+        "photoUrl": "ClosedLoop2019_Headshots_JenniferLines.png",
+        "talkName": "You actually read that? True Tales of Data Collection",
+        "abstract": "A key component of machine learning is data collection and data generation-- but as deceptively simple as this step sounds, there are many components of it that are tricky, surprising, and even fun. Most crucially, this initial work is all done by humans. In this talk, I will explain some of the key methods and guidelines for data collection, as well as common pitfalls and amusing mistakes one could make. I will also explain why it is so important to consider the human aspect of this step."    
+    },
+    {
+        "name": "Kathy Van Stone",
+        "bio": "Kathy Van Stone is a Senior Software Engineer working in Catalyst 2 Search. She has a B.S in mathematics from Harvey Mudd College and a Ph.D. in Computer Science from Carnegie Mellon University.  Kathy has been practicing test-driven development for about 15 years.",
+        "photoUrl": "ClosedLoop2019_Headshots_KathyVanStone.png",
+        "talkName": "Why I love Test Driven Development",
+        "abstract": "What is Test Driven Development? This talk gives examples on how and why to look into Test Driven Development, where tests are written before the code (plus some other best practices). We will discuss benefits and pitfalls to the approach and how to ease into it for ongoing projects."    
+    },
+    {
+        "name": "Kevin Kibler",
+        "bio": "Kevin Kibler is the Lead Engineer for the Fluency Assistant project. Kevin joined M*Modal in 2012 and since then has worked on several successful projects as a senior software engineer and team lead. In these roles, he has interviewed many candidates for both senior and junior developer positions. He was a big proponent of co op program between the university of Pittsburgh and M*Modal, where undergraduate students get to do several rotations at M*Modal to gain valuable workforce experience. Kevin has a BS in Computer Engineering from the University of Pittsburgh and a MS in Electrical and Computer Engineering from the University of Pittsburgh.",
+        "photoUrl": "ClosedLoop2019_Headshots_KevinKibler.png",
+        "talkName": "Recruiting & Interviewing: Advice from an experienced panel",
+        "abstract": "A panel discussion from various M*Modal team leads on best practices regarding around recruiting candidates and the interview process. Planning on addressing topics like common recruiting methods, categorizing the skillset required for the position, what metrics to use to evaluate a candidate as accurately as possible, among others. Will also address the hiring logistic changes panelists have faced with the 3M merger."    
+    },    
+    
+    {
+        "name": "Lilantha Alawattegama",
+        "bio": "Lilantha Alawattegama has been with M*Modal since 2009. Lilantha leads an eclectic Software Engineering organization, which consists of a product team, a SWAT team, three platform teams, and UX, in the M*Modal – 3M HIS Division.  In his free time Lilantha likes, taking a hot yoga class or sitting on his deck enjoying a glass of red wine.",
+        "photoUrl": "ClosedLoop2019_Headshots_LilanthaAlawattegama.png",
+        "talkName": "Recruiting & Interviewing: Advice from an experienced panel",
+        "abstract": "A panel discussion from various M*Modal team leads on best practices regarding around recruiting candidates and the interview process. Planning on addressing topics like common recruiting methods, categorizing the skillset required for the position, what metrics to use to evaluate a candidate as accurately as possible, among others. Will also address the hiring logistic changes panelists have faced with the 3M merger."    
+    }, 
+    {
+        "name": "Lisa Bush",
+        "bio": "Lisa has been working at M*Modal since 2010. She works in Human Resources and supports the Health Information Systems Division employees with an emphasis on M*Modal! Prior to working with HIS, she was the Human Resource Business Partner for the Technology division of M*Modal. Lisa enjoys her time off with her family and friends.  Favorite activities include reading, riding the Peloton and yoga!",
+        "photoUrl": "ClosedLoop2019_Headshots_LisaBush.png",
+        "talkName": "Recruiting & Interviewing: Advice from an experienced panel",
+        "abstract": "A panel discussion from various M*Modal team leads on best practices regarding around recruiting candidates and the interview process. Planning on addressing topics like common recruiting methods, categorizing the skillset required for the position, what metrics to use to evaluate a candidate as accurately as possible, among others. Will also address the hiring logistic changes panelists have faced with the 3M merger."    
+    },
+    {
+        "name": "Lori Miller",
+        "bio": "A University of Pittsburgh Health Information Management graduate, has been working at M*Modal since May 2018 as a Product Specialist for Imaging.  In this role, she is primarily focused on Scout.  She has spent the last 9 years in customer-facing healthcare technology roles.  When not at work, Lori is busy reading, exercising, or trying to derive patterns from her 3-year-old’s daily sippy cup preference.",
+        "photoUrl": "ClosedLoop2019_Headshots_LoriMiller.png",
+        "talkName": "How Fluency for Imaging and Scout impact the radiology world",
+        "abstract": "When you’re told by a general physician or a specialist that you need to have an exam, whether it be an x-ray, MRI, sonogram, etc., do you know what goes on behind the scenes?  Do you know what role Fluency for Imaging (FFI) and Scout play in the world of radiology?  In this presentation, we’ll walk through the steps taken to get an exam to FFI and outline what we provide to a radiologist so he can create a well-documented report.  From there, Scout Follow-up “closes the loop” by providing a nurse navigator a tool to track and manage recommended follow-ups.  Scout Analytics (Qlik) provides the facilities’ analyst insight to operational and quality data.  This is our role in improving patient care and generating what would otherwise be lost revenue for a facility."    
+    },
+    {
+        "name": "Lynn Kosegi",
+        "bio": "Lynn Kosegi is an Outcomes manager – otherwise known as Partnership Executive at M*Modal.  She has worked in the health information management field for approximately 152 years. She has done everything from customer management to product management to project management to transcription management to transcription to coding to chart assembly to dish washing and dog walking. However, don’t ask her to cook.",
+        "photoUrl": "ClosedLoop2019_Headshots_LynnKosegi.png",
+        "talkName": "Circling the Wagons: Customer-Centric Management",
+        "abstract": "As we deliver more products to our customers, and particularly as we share customers with 3M, it becomes more important to have a data-driven, customer-centric focus as opposed to an individual product focus if we are to have an impact on the healthcare industry and on doctor's lives."    
+    },
+    {
+        "name": "Lynn Nero",
+        "bio": "Has been working at M*Modal since 2007.  She was hired as an Account/Project Manager mostly for batch integrations (we only dabbled in front-end speech at that time!). Played an integral part in transitioning MedQuist from Nuance to M*Modal speech engine.  Before her current role as FFI Sr. Business Analyst, she did User Acceptance Testing for FFI.  Lynn stays busy with her two college-aged sons and husband of 29 years.  They enjoy vacationing, bicycling, and playing card/board games together with their friends...and all the fun stuff that goes along with that!",
+        "photoUrl": "ClosedLoop2019_Headshots_LynnNero.png",
+        "talkName": "How Fluency for Imaging and Scout impact the radiology world",
+        "abstract": "When you’re told by a general physician or a specialist that you need to have an exam, whether it be an x-ray, MRI, sonogram, etc., do you know what goes on behind the scenes?  Do you know what role Fluency for Imaging (FFI) and Scout play in the world of radiology?  In this presentation, we’ll walk through the steps taken to get an exam to FFI and outline what we provide to a radiologist so he can create a well-documented report.  From there, Scout Follow-up “closes the loop” by providing a nurse navigator a tool to track and manage recommended follow-ups.  Scout Analytics (Qlik) provides the facilities’ analyst insight to operational and quality data.  This is our role in improving patient care and generating what would otherwise be lost revenue for a facility."    
+    },
+    {
+        "name": "Martin Taylor",
+        "bio": "Marty Taylor graduated from the University of Pittsburgh in 2018 with a B.A. in Linguistics and a minor in Computer Science.",
+        "photoUrl": "ClosedLoop2019_Headshots_MartinTaylor.png",
+        "talkName": "Computational Linguistics for People Who Specifically Avoid Computational Linguistics",
+        "abstract": "We all know how to use language, right? We use it so much, we do it without thinking. Why is it so complicated to make computers do it? It can be intimidating, but as someone who studied linguistics and computer science, and who purposely stayed clear of computational linguistics, I'm here to show you that it's not that bad. If phrases like 'distributional semantics', 'language-games', or 'transformational grammar' confuse and bewilder you, don't worry, they scared me at one point too."    
+    },
+    {
+        "name": "Melody Hauber",
+        "bio": "Originally from Seacoast New England, Melody has been with M*Modal/3M for ten years. While attending The Art Institute of Pittsburgh, Melody received design awards and an academic scholarship. After graduating with a marketing degree, she worked in the fashion show division of special events for Kaufmann’s/Macy’s. Prior to this, Melody attended California University of Pennsylvania and later, the University of Pittsburgh. Melody enjoys writing and is responsible for naming the Thai restaurant in Squirrel Hill 'Curry on Murray.'  She often has dirty fingernails from working in her garden, and staying up late to make things",
+        "photoUrl": "ClosedLoop2019_Headshots_MelodyHauber.png",
+        "talkName": "LOUDquietLOUD\nThis is a journey into sound ~ a talk about talk and music, peppered with a bit of transcription history.",
+        "abstract": "During this interactive presentation, we'll take a look at the effects of noise in the environment, with a few anecdotes from the world of language specialists. Finally, we'll meet voice recognition’s “fun cousin,” song recognition, for an entertaining guessing game.\nIf you’re a fan of music and are prone to stuck song syndrome, this is the talk for you. Put on your pop-culture thinking caps and win prizes!"    
+    },
+    {
+        "name": "Olga Rosado-Carpenter",
+        "bio": "Olga is a full-stack web developer in the Fluency for Coding team in Atlanta, GA.  She has lived most of her life in the Boston, MA area where she worked in the pharmaceutical industry for 10 years, both as a scientist and informatician creating tools for workflow automation and data analysis.  Olga is a graduate of the University of Massachusetts at Amherst and San Diego State University.",
+        "photoUrl": "ClosedLoop2019_Headshots_OlgaRosadoCarpenter.png",
+        "talkName": "Realtime data analysis in the browser with JavaScript",
+        "abstract": "Fluency for Coding (FFC) is a medical coding platform that supports not only coding functions, but also personnel and operations management. As such, our clients rely heavily on reporting and analyses for decision-making, optimizing processes and increasing efficiency. In order to increase our flexibility in development, reduce cost, and increase user experience, our development team has opted to create our reporting interface using open-source web technologies such as ReactJS and ChartJS. This greatly increases our flexibility in what we can develop for our users as well as increase our efficiency in responding to our clients’ reporting/analytics requests. The objective of this talk will be to describe the technologies and and development process used, as well as demonstrate the benefits of these and how other teams can implement it in their projects."    
+    },
+    {
+        "name": "Ray Shimko",
+        "bio": "Ray is a Senior Infrastructure Engineer of the 777th degree on our CDI, Clinical Documentation Improvement, team here at M*Modal. Ray has a four year degree from Penn State University, a Masters from the University of Hard Knocks, and a PHD in Yak Shaving. When Ray isn't being the Swiss Army knife of infrastructure for CDI, Ray enjoys flying around the US and giving infrastructure centered presentations to other colleagues in the industry. Ray is also a published author on opensource.com. Ray is also an aspiring novelist when not otherwise engrossed in the above activities.",
+        "photoUrl": "ClosedLoop2019_Headshots_RayShimko.png",
+        "talkName": "Linux In A Microsoft World",
+        "abstract": "This will be a guide walking the audience through setting up the Windows Subsystem for Linux in a Windows 10 environment. We will show the audience how to install and configure tools like ansible and mercurial (hg) for source control and server fleet administration. If time allows we will also demo how to use MobaXterm to access WSL so you can have one tool to ssh to servers and utilize the above tools."    
+    },
+    {
+        "name": "Theora Kvitka",
+        "bio": "Theora Kvitka is a User Experience Researcher and cartoonist. She spends a lot of time thinking about the future and the technologies which will influence it. Theora also uses drawing and storytelling to engage people in the design process. Her comics address current and future issues in society, and have been published in The Nib, The Guardian and Lenny Letter.",
+        "photoUrl": "ClosedLoop2019_Headshots_TheoraKvitka.png",
+        "talkName": "Abusability Studies",
+        "abstract": "In the future, the sun is always shining, technology is ubiquitous and invisible, and you never get locked out of Confluence. Right? Unfortunately, such visions of the future are unrealistic. Technology that was intended to bring us all together or make our lives easier has also been used to sow division, steal information and even facilitate hatred and violence. If you make the argument that the products that our society has built are working exactly as designed, then we need to be better at designing them! One of the tools in the UX Research arsenal is the usability study, to see if products or features work as intended. What if we tested how our designs might work as not intended? In this workshop, you will consider how 3M M*Modal’s products could be used for purposes other than their original intent – a.k.a. an “abusability study”. Join us to play devil’s advocate in order to build stronger products for a more resilient future."    
+    },
+    {
+        "name": "Yosef Brown",
+        "bio": "A graduate of the University of Chicago, Yosef has worked in a variety of software domains, including privacy, healthcare, and mobile UI. As an Amazon alumnus, he helped bring parental controls and the children's 'FreeTime' experience to the Kindle Fire. He received training and practiced Agile / Scrum at GE Healthcare for three and a half years while building software for radiologist workflow. Although widely known for telling jokes, quips, and one-liners, Yosef has promised to treat this presentation with the gravity it deserves.",
+        "photoUrl": "ClosedLoop2019_Headshots_YosefBrown.png",
+        "talkName": "Pickle Quality: an Introduction to Behavior-Driven Development ",
+        "abstract": "Both physical and software products require testing to ensure quality. There are different approaches to testing software, but one way to verify functionality (automatically!) is through Behavior-Driven Development (BDD). Please join me as we explore the Gherkin behavior language to specify application performance and run automatic regression tests."    
+    },
+    {
+        "name": "Abdesalam Soudi, Ph.D. - University of Pittsburgh (Keynote)",
+        "bio": "Abdesalam Soudi, Ph.D., earned his Ph.D. in sociolinguistics from the University of Pittsburgh. His doctoral research focused on the human-computer interface in doctors’ consultations and has several commercial applications to the field of Electronic Health Records. In 2014, he completed the Speaking in the Disciplines Fellowship. Dr. Soudi currently holds a full-time faculty appointment with the department of Linguistics in the Dietrich School of Arts and Sciences at the University of Pittsburgh. He is also a faculty affiliate with the Global Studies Center, Family Medicine Department, and Institute for Clinical Research Education (ICRE), and he is a Faculty Fellow with the Pitt Honors College. He co-directs a Masters-level cultural and linguistic competency course, and also serves as the advisor for the Linguistic Internship; a program he created in 2012 to connect linguistics to the community and industry. His areas of interest include Conversation Analysis, Sociolinguistics, EHRs, Human-Computer interaction, and Arabic Linguistics.\nDr. Soudi has partnered with the School of Medicine, the School of Business, the School of Education, the School of Computing and Information, Community Organizations, and Industry Partners to research across traditional academic lines and to chair several conferences and projects (topics have included: Humanities in Health,  Cultural and Linguistic Diversity, Family and Healthy U, and most recently, Humanities at Work in the Community, Health, and Tech Industry).\n\n\n\nDr. Soudi has published his research in several journals and magazines. He recently edited a special collection on the topic of Humanities in Health in the European Journal of Person-Centered Healthcare. His co-edited volume, “Diversity Across the Disciplines: Research on People, Policy, Process, and Paradigm” will appear at the end of this year. In 2017, he produced and directed a short documentary entitled, “The Meaning and Value of Diversity: Living and Working Together”. He also recently produced a new promotional film about the Linguistics Internship.\nDr. Soudi won the inaugural 2017 Diversity in the Curriculum Award for his success in creating a diverse and inclusive learning environment for his students. In 2018, Dr. Soudi also won a first ever Pitt Seed award for a proposal to build an engagement platform for connecting linguistics to the community and tech industry. He won 4 other awards from the Provost to organize cross-disciplinary national conferences. He has given invited talks at several universities, industries, and governmental organizations.\nDr. Soudi serves on the board of directors for the Pittsburgh Pastoral Institute. He is a member of the Dietrich School Faculty Diversity Committee and a member of the Chancellor's Circle at Pitt. He lives in Pittsburgh with his wife, Binney, a practicing physician, and their two children, Binney Aicha and Laith Mubarack.",
+        "photoUrl": "ClosedLoop2019_Headshots_AbdesalamSoudi.png",
+        "talkName": "Keynote Speech",
+        "abstract": "None"    
+    }]
+}
